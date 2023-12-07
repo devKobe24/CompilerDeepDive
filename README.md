@@ -20,6 +20,7 @@
 | 23.11.29(수) | 구문분석기의 종류와 역사. |
 | 23.11.29(수) | 컴파일러와 인터프리터. |
 | 23.12.02(토) | 컴파일러의 논리적 구조. |
+| 23.12.07(목) | Clang Overview |
 
 
 ## 📖 목차
@@ -27,6 +28,7 @@
 - [구문분석기의 종류와 역사](https://github.com/devKobe24/CompilerDeepDive/blob/main/contents/231129-syntaxAnalysis.md)
 - [컴파일러와 인터프리터](https://github.com/devKobe24/CompilerDeepDive/blob/main/contents/231129-compilerAndInterpreter.md)
 - [컴파일러의 논리적 구조](https://github.com/devKobe24/CompilerDeepDive/blob/main/contents/231202-logicalOrganization.md)
+- [Clang Overview](https://github.com/devKobe24/CompilerDeepDive/blob/main/contents/231207-Clang-Overview.md)
 
 
 ## 📚 참고자료
