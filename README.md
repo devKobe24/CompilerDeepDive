@@ -22,6 +22,7 @@
 | 23.12.02(토) | 컴파일러의 논리적 구조. |
 | 23.12.07(목) | Clang Overview |
 | 23.12.08(금) | 컴파일러의 물리적 구조(1). |
+| 24.01.01(월) | 컴파일러의 물리적 구조(2). |
 
 
 ## 📖 목차
@@ -31,6 +32,7 @@
 - [컴파일러의 논리적 구조](https://github.com/devKobe24/CompilerDeepDive/blob/main/contents/231202-logicalOrganization.md)
 - [Clang Overview](https://github.com/devKobe24/CompilerDeepDive/blob/main/contents/231207-Clang-Overview.md)
 - [컴파일러의 물리적 구조(1)](https://github.com/devKobe24/CompilerDeepDive/blob/main/contents/231208-compilerPhysicalStructure.md)
+- [컴파일러의 물리적 구조(2)](https://github.com/devKobe24/CompilerDeepDive/blob/main/contents/240101-compilerPhysicalStructure-2.md)
 
 
 ## 📚 참고자료
